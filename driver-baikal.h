@@ -26,8 +26,8 @@
 #endif
 
 #define BAIKAL_CUTOFF_TEMP      (55)
-#define BAIKAL_FANSPEED_DEF     (100)
-#define BAIKAL_FANSPEED_MAX     (100)
+#define BAIKAL_FANSPEED_DEF     (300)
+#define BAIKAL_FANSPEED_MAX     (400)
 #define BAIKAL_RECOVER_TEMP     (40)
 
 #define BAIKAL_RESET		    (0x01)
