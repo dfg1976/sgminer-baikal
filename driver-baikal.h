@@ -25,9 +25,9 @@
 #define BAIKAL_CLK_DEF  		(200) // This must be changed depending on your miner type. If you have Giant N set to 200, If you have X10 set to 300 and if you have B set to 400. Its left at 200 intentionally because Giant N is stock at 200.
 #endif
 
-#define BAIKAL_CUTOFF_TEMP      (55)
-#define BAIKAL_FANSPEED_DEF     (100)
-#define BAIKAL_FANSPEED_MAX     (100)
+#define BAIKAL_CUTOFF_TEMP      (65)
+#define BAIKAL_FANSPEED_DEF     (300)
+#define BAIKAL_FANSPEED_MAX     (400)
 #define BAIKAL_RECOVER_TEMP     (40)
 
 #define BAIKAL_RESET		    (0x01)
