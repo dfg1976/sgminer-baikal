@@ -22,7 +22,7 @@
 #elif BAIKAL_TYPE == BAIKAL_1791 // Really?
 #define BAIKAL_CLK_DEF  		(400)
 #else
-#define BAIKAL_CLK_DEF  		(200) // This must be changed depending on your miner type. If you have Giant N set to 200, If you have X10 set to 300 and if you have B set to 400. Its left at 200 intentionally because Giant N is stock at 200.
+#define BAIKAL_CLK_DEF  		(300)
 #endif
 
 #define BAIKAL_CUTOFF_TEMP      (55)
